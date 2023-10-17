@@ -8,3 +8,5 @@ build:
 sphinx:
    builder: html
    configuration: conf.py
+formats:
+  - epub
